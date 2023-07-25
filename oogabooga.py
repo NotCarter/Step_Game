@@ -1,0 +1,6 @@
+N=int(input("Enter a value for N"))
+K=int(input("Enter a value for K"))
+A=(pow(2,K))
+print(N/A)
+ans=(N/A)
+print(N-ans)
