@@ -1,7 +1,7 @@
 import random
 number = random.randint (1, 100)
-username= "cnoel4"
-password= "Hi53Hello"
+username= "Mickey"
+password= "Mousekatoodles"
 counter=3
 while True:
 	Confirm=input("Enter username :")
@@ -142,7 +142,7 @@ while True:
 					Counter+=1
 					print("Congradulations", name,"! You guessed the number in", +Counter, "Tries!")
 					break
-		if app== "Game1":
+		if app== "Guess":
 			Counter=0
 			name=input ("Enter your name: ")
 			while True:
@@ -157,7 +157,7 @@ while True:
 					Counter+=1
 					print("Congradulations", name,"! You guessed the number in", +Counter, "Tries!")
 					break
-		if app== "game 1":
+		if app== "guess":
 			Counter=0
 			name=input ("Enter your name: ")
 			while True:

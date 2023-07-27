@@ -1,5 +1,5 @@
 import random
-print("welcome to rock papr scissors!")
+print("welcome to Rock Paper Scissors!")
 choices=["rock", "paper", "scissors"]
 while True:
     player_choice=int(input(" Enter your choice:\n1. Rock\n2. Paper\n3. Scissors\nYour choice (1/2/3): "))
