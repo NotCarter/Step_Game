@@ -202,4 +202,4 @@ while True:
 			print ("Incorrect too many times, try again later")
 			break
 		else:
-			print("Incorrcet Username Or Password,", +counter, " Tries Left")
+			print("Incorrect Username Or Password,", +counter, " Tries Left")
